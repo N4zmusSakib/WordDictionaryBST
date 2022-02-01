@@ -1,4 +1,4 @@
-# Word Dictionary Using Binary Search Tree (BST)
+# Word Dictionary with Binary Search Tree (BST)
 Read input from a text file.
 1. Search word meaning
 2. Insert new Word with meaning (Also, save it into the text file)
